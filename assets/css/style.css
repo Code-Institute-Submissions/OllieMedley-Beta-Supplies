@@ -55,7 +55,22 @@ li a {
 /*----------------------jumbotron*/
 
 
+.sale h1 {
+    font-family: Bangers, sans-serif;
+    letter-spacing: 2px;
+    line-height: 75px;    
+}
 
+.sale h5 {
+    font-family: Encode 700, sans-serif;
+    letter-spacing: 1px;
+    line-height: 75px;
+}
+
+.sale-btn {
+    font-family: Bangers, sans-serif;
+    letter-spacing: 2px;
+}
 
 /*----------------------featured*/
 
