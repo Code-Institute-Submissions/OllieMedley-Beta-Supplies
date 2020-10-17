@@ -1,12 +1,60 @@
 /*------------------ fonts */
 @import url('https://fonts.googleapis.com/css2?family=Bangers&family=Encode+Sans:wght@100;200;300;400;500;600;700;800&display=swap');
 
+/*-------------------bg colors */
+.bg-color-top-row {
+    background-color: #3d3232;
+}
+
+/*-------------------colors */
+
+
+
+/*-------------------header*/
+
 header {
-    margin: 0;
+    margin: 0px;
+    padding-bottom: 10px;
 }
 
 .logo {
     font-family: Bangers, sans-serif;
-    font-size: 32px;
+    font-size: 38px !important;
     text-decoration: none;
+    font-family: Bangers, Sans-Serif;
+    margin-left: 35px;
+    color: white !important;
+    letter-spacing: 1px;
 }
+
+.logo:hover {
+    text-decoration: none;
+    color: white;
+}
+
+li a {
+    font-family: Bangers, sans-serif;
+    letter-spacing: 2px;
+    margin: 0px 5px 0px 5px;
+    color: white !important;
+}
+
+.blurb h4 {
+    font-family: Encode, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 15px;
+    color: white
+}
+
+/*----------------------jumbotron*/
+
+
+
+
+/*----------------------featured*/
+
+
+
+
+/*-----------------------blog*/
