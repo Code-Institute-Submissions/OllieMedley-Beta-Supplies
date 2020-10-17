@@ -2,9 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Bangers&family=Encode+Sans:wght@100;200;300;400;500;600;700;800&display=swap');
 
 /*-------------------bg colors */
-.bg-color-top-row {
+.bg-color-header {
     background-color: #3d3232;
 }
+
+.bg-color-footer {
+    background-color: #3d3232;
+}
+
 
 /*-------------------colors */
 
@@ -58,3 +63,25 @@ li a {
 
 
 /*-----------------------blog*/
+
+
+
+
+
+/*------------------------footer*/
+
+footer {
+    min-height: 120px;
+}
+
+.general-sub {
+    font-family: Bangers, sans-serif;
+    color: white;
+}
+
+.inline-block {
+    font-family: Encode, sans-serif;
+    color: white;
+    display: inline-block;
+    
+}
