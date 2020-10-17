@@ -1,0 +1,12 @@
+/*------------------ fonts */
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Encode+Sans:wght@100;200;300;400;500;600;700;800&display=swap');
+
+header {
+    margin: 0;
+}
+
+.logo {
+    font-family: Bangers, sans-serif;
+    font-size: 32px;
+    text-decoration: none;
+}
