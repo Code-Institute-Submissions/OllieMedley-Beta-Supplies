@@ -1,9 +1,7 @@
 /*------------------ fonts */
 @import url('https://fonts.googleapis.com/css2?family=Bangers&family=Encode+Sans:wght@100;200;300;400;500;600;700;800&display=swap');
 
-/*-------------------bg colors */
-.bg-color-header {
-    background-color: #3d3232;
+/*-------------------bg colors */A
 }
 
 .bg-color-footer {
@@ -56,31 +54,38 @@ li a {
 
 
 .sale h1 {
-    font-family: Bangers, sans-serif;
+    font-family: Bangers, Sans-Serif;
     letter-spacing: 2px;
     line-height: 75px;    
 }
 
 .sale h5 {
-    font-family: Encode 700, sans-serif;
+    font-family: Encode 700, Sans-Serif;
     letter-spacing: 1px;
     line-height: 75px;
 }
 
 .sale-btn {
-    font-family: Bangers, sans-serif;
+    font-family: Bangers, Sans-Serif;
     letter-spacing: 2px;
 }
 
-/*----------------------featured*/
+/*----------------------feat & Blog*/
 
+.feat-blog {
+    min-height: 200px;
+}
 
+.feature h2, .blog-home h2 {
+    font-family: Bangers, Sans-Serif;
+    text-align: center;
+}
 
-
-/*-----------------------blog*/
-
-
-
+.feature p, .blog-home p {
+    font-family: Encode, Sans-Serif;
+    text-align: center;
+    font-size: 18px;
+}
 
 
 /*------------------------footer*/
@@ -99,4 +104,9 @@ footer {
     color: white;
     display: inline-block;
     
+}
+
+.fab, .fas {
+    color: skyblue;
+    font-size: 30px;
 }
