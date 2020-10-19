@@ -87,6 +87,12 @@ li a {
     font-size: 18px;
 }
 
+a img {
+    border: 0;
+    width: 100px;
+    height: 100px;
+}
+
 
 /*------------------------footer*/
 
