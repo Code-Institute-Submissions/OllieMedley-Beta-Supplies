@@ -104,8 +104,10 @@ li a {
 
 /*----------------------feat & Blog*/
 
-.card {
-    opacity: 0;
+hr {
+    height: 1px;
+    color: blue;
+    background-color: blue;
 }
 
 .feat-blog {
