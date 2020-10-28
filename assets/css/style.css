@@ -234,3 +234,23 @@ footer {
     margin: 15px;
     float: center;
 }
+
+
+/*---------------------product pages*/
+
+.bag-heading h1, chalk-heading h1, shoe-heading h1 {
+    font-family: Bangers, Sans-Serif;
+    text-align: center;
+}
+
+.bag-heading p, chalk-heading p, shoe-heading p {
+    font-family: Encode 500, Sans-Serif;
+    text-align: center;
+    font-size: 20px;
+}
+
+.product {
+    display: flex;
+    flex-wrap: wrap;
+}
+
