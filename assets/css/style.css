@@ -29,6 +29,10 @@ header {
     padding-bottom: 10px;
 }
 
+.dropdown-menu a {
+    color: black !important;
+}
+
 .logo {
     font-family: Bangers, sans-serif;
     font-size: 38px !important;
@@ -149,8 +153,9 @@ a img {
     text-transform: uppercase;
 }
 
-.feat-text:hover {
+.feat-blog-a a:hover {
     text-decoration: none;
+    color: #CF1010;
 }
 
 .feat-text p {
@@ -238,12 +243,14 @@ footer {
 
 /*---------------------product pages*/
 
-.bag-heading h1, chalk-heading h1, shoe-heading h1 {
+.bag-heading h1, .chalk-heading h1, .shoe-heading h1 {
+    margin-top: 25px;
+    font-size: 3.2em;
     font-family: Bangers, Sans-Serif;
     text-align: center;
 }
 
-.bag-heading p, chalk-heading p, shoe-heading p {
+.bag-heading p, .chalk-heading p, .shoe-heading p {
     font-family: Encode 500, Sans-Serif;
     text-align: center;
     font-size: 20px;
@@ -252,5 +259,30 @@ footer {
 .product {
     display: flex;
     flex-wrap: wrap;
+}
+
+.card {
+    margin: 10px;
+    margin-bottom: 35px;
+    background-color: rgba(127, 117, 117, 0.5)!important;
+}
+
+.card img {
+    height: 200px;
+    width: 240px;
+}
+
+.card a {
+    text-decoration: none;
+    text-align: center;
+    color: #000;
+    margin-top: 5px;
+    font-family: Encode, Sans-Serif;
+}
+
+.product a:hover {
+    text-decoration: none;
+    color: #CF1010;
+    
 }
 
