@@ -243,22 +243,23 @@ footer {
 
 /*---------------------product pages*/
 
-.bag-heading h1, .chalk-heading h1, .shoe-heading h1 {
+.bag-heading h1, .chalk-heading h1, .shoe-heading h1, .blog-heading h1 {
     margin-top: 25px;
     font-size: 3.2em;
     font-family: Bangers, Sans-Serif;
     text-align: center;
 }
 
-.bag-heading p, .chalk-heading p, .shoe-heading p {
+.bag-heading p, .chalk-heading p, .shoe-heading p, .blog-heading p {
     font-family: Encode 500, Sans-Serif;
     text-align: center;
     font-size: 20px;
+    margin-bottom: 20px;
 }
 
 .product {
     display: flex;
-    flex-wrap: wrap;
+    flex: flex-end;
 }
 
 .card {
@@ -286,3 +287,22 @@ footer {
     
 }
 
+/*-------------------------------------blog*/
+
+.blog-card a:hover {
+    text-decoration: none;
+    color: #CF1010;
+}
+
+.blog_art h2 {
+    font-family: Bangers, Sans-Serif;
+}
+
+.blog_art h5 {
+    font-family: Encode 500, Sans-Serif;
+    font-style: italic;
+}
+
+.blog_art p {
+    font-family: Encode, Sans-Serif;
+}
