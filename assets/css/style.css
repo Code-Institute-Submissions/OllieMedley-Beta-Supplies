@@ -259,9 +259,11 @@ footer {
     margin-bottom: 20px;
 }
 
-.product {
+.product-wrap {
     display: flex;
-    flex: flex-end;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:center;
 }
 
 .card {
