@@ -108,10 +108,13 @@ li a {
 
 /*----------------------feat & Blog*/
 
-hr {
-    height: 1px;
-    color: blue;
-    background-color: blue;
+.feature-border {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 15px;
+    width: 95%;
+    margin-bottom: 20px;
+    box-shadow: 7px 7px #334d4d;
 }
 
 .feat-blog {
@@ -137,7 +140,7 @@ hr {
 .feature-blog p {
     font-family: Encode, Sans-Serif;
     text-align: center;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 a img {
