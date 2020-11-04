@@ -188,7 +188,7 @@ a img {
 /*------------------------footer*/
 
 footer {
-    min-height: 120px;
+    min-height: 200px;
 }
 
 .general-sub {
@@ -318,6 +318,12 @@ footer {
 }
 
 /*-------------------------------------blog*/
+.blog-card {
+    border: 1px solid #eee;
+    border-radius: 10px;
+    box-shadow: 7px 7px #334d4d;
+}
+
 
 .blog-card a:hover {
     text-decoration: none;
