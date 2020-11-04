@@ -15,7 +15,25 @@ body {
     -moz-background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
-    display: block;
+    background-attachment: fixed;
+    }
+
+body {
+    height: 100vh;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    margin-top: auto
+}
+
+.row {
+    width: 100%;
 }
 
 /*-------------------colors */
@@ -238,11 +256,15 @@ footer {
     text-transform: lowercase;
 }
 
-.contact-socials i {
-    font-size: 25px;
-    text-align: center;
-    margin: 15px;
-    float: center;
+.contact-wrap a i {
+    font-size: 85px;
+    color: #334d4d;
+}
+
+.contact-wrap  {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 
@@ -262,11 +284,11 @@ footer {
     margin-bottom: 20px;
 }
 
-.product-wrap {
+.product-wrap{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content:center;
+    justify-content: center;
 }
 
 .card {
