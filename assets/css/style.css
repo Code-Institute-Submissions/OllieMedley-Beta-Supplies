@@ -126,6 +126,17 @@ li a {
     margin-top: 25px;
 }
 
+.sale-btn a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.sale-btn a:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+
 /*----------------------feat & Blog*/
 
 .feature-border {
