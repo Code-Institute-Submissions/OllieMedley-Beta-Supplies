@@ -1,7 +1,7 @@
 # Beta Supplies
 ## This project is designed to highlight what I have learnt so far from HTML, CSS and Bootstrap. It also combines my love of climbing and shopping for climbing supplies. 
 
-UX
+## UX
 This website is designed to be used by climbers, to be efficient in the finding of equipment and the latest information. 
 
 User stories:
@@ -12,32 +12,53 @@ It's for this reason that I ensured that the latest sale items were in a jumbotr
 As a climber I want to be able to see the latest information. 
 It's for this reason that the latest blogs are a section on the home page, each with links that would go to induvidual blog posts. 
 
-Wireframes: 
+## Wireframes: 
+https://github.com/OllieMedley/ms1.2/tree/master/wireframe
+
+I removed the search bar from the header and the radio buttons from the product pages as I felt they would be there just to be there, and it isn't something I wanted. Once I am able to add funcitoning versions it may be somehting I look at adding in. 
+
+The typography that I chose was designed to be more rustic and reminisent of rock face, which is why I chose Bangers, I chose Encode as a juxtaposition to this to display factually correct information. 
+
+## UX
+
+Strategy: 
+I wanted to provide a place to source climbing equipment and to give people access to the latest information about climbing. 
 
 
-Features
+
+## Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
 Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
+
+
 For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 Features Left to Implement
-Another feature idea
-Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+Search bar in header once there is a database attached
+Radio buttons, again once a database is attached. 
 
-JQuery
-The project uses JQuery to simplify DOM manipulation.
-Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+## Technologies Used
+Languages:
+-HTML
+-CSS
+-Javascript
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+## Libraries and Integrations: 
+-Google fonts (for typography)
+-FontAwesome (for the icons)
+-Bootstrap (used for the header, jumbotron, grid layout and cards)
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+## Workspace: 
+-Brackets.IO
+-GitHub 
+-Git
+
+## Testing
+W3C for HTML and CSS.
+
 
 Contact form:
 Go to the "Contact Us" page
@@ -50,20 +71,24 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
+## Deployment
+All code was written on Gitpod, an online IDE.
+The code was then pushed to GitHub where it is stored in my Repository.
+Under the settings section of the GitHub repository, scroll down to the GitHub Pages section.
+Under 'Source' drop-down, the 'Master branch' was selected.
+Once selected, this publishes the project to GitHub Pages and displays the site URL.
+There is no difference between the deployed version and the development version.
+The code can be run locally through clone or download.
+You can do this by opening the repository, clicking on the green 'Code' button, and selecting either 'clone or download'.
+The Clone option provides a URL, which you can use on your desktop IDE.
+The Download ZIP option provides a link to download a ZIP file that can be unzipped on your local machine.
 
 Credits
 Content
-The text for section Y was copied from the Wikipedia article Z
+
+
 Media
-The photos used in this site were obtained from ...
+The photos used in this site were obtained from myself or from www.istockphoto.com - a very helpful site.
+
 Acknowledgements
-I received inspiration for this project from X
+I received inspiration for this project from Epic TV and Depot Climbing 
