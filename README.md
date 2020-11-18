@@ -19,24 +19,17 @@ I removed the search bar from the header and the radio buttons from the product 
 
 The typography that I chose was designed to be more rustic and reminisent of rock face, which is why I chose Bangers, I chose Encode as a juxtaposition to this to display factually correct information. 
 
-## UX
-
-Strategy: 
-I wanted to provide a place to source climbing equipment and to give people access to the latest information about climbing. 
-
 
 
 ## Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
-Existing Features
+- Jumbotron featuring image, from Bootstrap Library
+- Social media links in the footer and on the contact page
+- Flexbox display in the product pages
+- The link in the jumbotron uses a linear gradient which switches as you hover and changes the pointer icon to the pointer implying a click. 
 
+### Features Left to Implement
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-Features Left to Implement
 Search bar in header once there is a database attached
 Radio buttons, again once a database is attached. 
 
@@ -57,38 +50,31 @@ Languages:
 -Git
 
 ## Testing
-W3C for HTML and CSS.
+I used W3C for HTML and CSS.
 
+HTML test brought up 1 error relating to the Jumbotron. This was the use of an a tag around the button.
+ 
+There were also 2 warnings, again for the Jumbotron, the lack of a section heading and the use of a h1 tag. 
 
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+To fix the error I removed the button entirely and styled the link to look like a button. 
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+The warnings don't impact the functionality. 
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+No errors were found with my CSS with the Validator but I did have to take out code that didn't do anything that I left in from the beginning. 
 
 ## Deployment
-All code was written on Gitpod, an online IDE.
-The code was then pushed to GitHub where it is stored in my Repository.
-Under the settings section of the GitHub repository, scroll down to the GitHub Pages section.
-Under 'Source' drop-down, the 'Master branch' was selected.
+To write the code I used Brackets.IO 
+All of the written code was pushed to the master branch of githum repository.
+I selected the master branch as a source file in the settings menu. 
 Once selected, this publishes the project to GitHub Pages and displays the site URL.
-There is no difference between the deployed version and the development version.
+There aren't any differences between the deployed version and the source. 
 The code can be run locally through clone or download.
-You can do this by opening the repository, clicking on the green 'Code' button, and selecting either 'clone or download'.
-The Clone option provides a URL, which you can use on your desktop IDE.
-The Download ZIP option provides a link to download a ZIP file that can be unzipped on your local machine.
-
-Credits
-Content
+You can do this by opening the repository, clicking on the 'Code' button, and selecting either 'clone or download'.
 
 
-Media
-The photos used in this site were obtained from myself or from www.istockphoto.com - a very helpful site.
+## Credits
+### Media
+The photos used in this site were obtained from myself - the image for the jumbotron or from www.istockphoto.com - a very helpful site.
 
-Acknowledgements
-I received inspiration for this project from Epic TV and Depot Climbing 
+### Acknowledgements
+I received inspiration for this project from Epic TV and Depot Climbing and help from my mentor
