@@ -19,7 +19,7 @@ I removed the search bar from the header and the radio buttons from the product 
 
 The typography that I chose was designed to be more rustic and reminisent of rock face, which is why I chose Bangers, I chose Encode as a juxtaposition to this to display factually correct information. 
 
-![responsive screenshot](responsivescreenshot.jpg)
+![responsive screenshot](https://github.com/OllieMedley/ms1.2/blob/master/assets/wireframe/responsivescreenshot.JPG)
 
 ## Features
 
