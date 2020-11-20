@@ -19,7 +19,7 @@ I removed the search bar from the header and the radio buttons from the product 
 
 The typography that I chose was designed to be more rustic and reminisent of rock face, which is why I chose Bangers, I chose Encode as a juxtaposition to this to display factually correct information. 
 
-
+![responsive screenshot](responsivescreenshot.jpg)
 
 ## Features
 
@@ -70,6 +70,7 @@ Once selected, this publishes the project to GitHub Pages and displays the site 
 There aren't any differences between the deployed version and the source. 
 The code can be run locally through clone or download.
 You can do this by opening the repository, clicking on the 'Code' button, and selecting either 'clone or download'.
+The site is published at https://olliemedley.github.io/ms1.2/
 
 
 ## Credits
