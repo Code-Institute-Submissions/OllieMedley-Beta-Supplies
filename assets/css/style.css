@@ -17,20 +17,10 @@ body {
     -webkit-background-size: cover;
     -o-background-size: cover;
     background-attachment: fixed;
-}
-
-body {
     height: 100vh;
     margin: 0;
-}
-
-body {
     display: flex;
     flex-direction: column;
-}
-
-footer {
-    margin-top: auto
 }
 
 .row {
@@ -39,7 +29,17 @@ footer {
 
 /*-------------------colors */
 
-
+#942911
+#DB4F09
+#d0451b
+#ffffff
+#000000
+#b30000
+#ff3333
+#334d4d
+#00093E
+#CF1010
+#3d3232
 
 /*-------------------header*/
 
@@ -49,7 +49,7 @@ header {
 }
 
 .dropdown-menu a {
-    color: black !important;
+    color: #000000 !important;
 }
 
 .logo {
@@ -58,20 +58,20 @@ header {
     text-decoration: none;
     font-family: Bangers, Sans-Serif;
     margin-left: 35px;
-    color: white !important;
+    color: #ffffff !important;
     letter-spacing: 1px;
 }
 
 .logo:hover {
     text-decoration: none;
-    color: white;
+    color: #ffffff;
 }
 
 li a {
     font-family: Bangers, sans-serif;
     letter-spacing: 2px;
     margin: 0px 5px 0px 5px;
-    color: white !important;
+    color: #ffffff !important;
 }
 
 .blurb h4 {
@@ -79,7 +79,7 @@ li a {
     font-size: 18px;
     text-align: center;
     margin-top: 15px;
-    color: white
+    color: #ffffff;
 }
 
 /*----------------------jumbotron*/
@@ -131,18 +131,18 @@ li a {
     color: #fff;
 }
 
-.button{
-    box-shadow:inset 0px 1px 0px 0px #4d0000;
-	background:linear-gradient(to bottom, #ff3333 5%, #b30000 100%);
-	background-color:#d0451b;
-	border-radius:3px;
-	border:1px solid #942911;
-	display:inline-block;
-	color:#ffffff;
-	font-family: Bangers, sans-serif;
-	font-size:13px;
-	padding:6px 24px;
-	text-decoration:none;
+.button {
+    box-shadow: inset 0px 1px 0px 0px #4d0000;
+    background: linear-gradient(to bottom, #ff3333 5%, #b30000 100%);
+    background-color: #d0451b;
+    border-radius: 3px;
+    border: 1px solid #942911;
+    display: inline-block;
+    color: #ffffff;
+    font-family: Bangers, sans-serif;
+    font-size: 13px;
+    padding: 6px 24px;
+    text-decoration: none;
     letter-spacing: 2px;
 }
 
@@ -218,6 +218,7 @@ a img {
 footer {
     min-height: 200px;
     box-shadow: 0 100vh 0 50vh #3d3232;
+    margin-top: auto
 }
 
 .general-sub {
