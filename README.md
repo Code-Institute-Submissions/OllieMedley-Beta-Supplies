@@ -86,5 +86,8 @@ You can do this by opening the repository, clicking on the 'Code' button, and se
 ### Media
 The photos used in this site were obtained from myself - the image for the jumbotron or from www.istockphoto.com - a very helpful site ad one image from Climbing Gear Reviews - https://www.google.com/url?sa=i&url=https%3A%2F%2Fclimbinggearreviews.com%2F2020%2F03%2F12%2Fscarpa-veloce-review-2020%2F&psig=AOvVaw3tkYzoQuLOmypvKSFvDL25&ust=1605963981954000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCJjRzpeYke0CFQAAAAAdAAAAABAD
 
+### Bootstrap
+(used for the header, jumbotron, grid layout and cards)
+
 ### Acknowledgements
 I received inspiration for this project from Epic TV and Depot Climbing and help from my mentor
