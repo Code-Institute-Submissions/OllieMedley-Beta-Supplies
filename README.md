@@ -50,7 +50,7 @@ Languages:
 -Git
 
 ## Testing
-I used W3C for HTML and CSS.
+I used W3C validators for HTML and CSS.
 
 HTML test brought up 1 error relating to the Jumbotron. This was the use of an a tag around the button.
  
@@ -79,7 +79,7 @@ The code can be run locally through clone or download.
 
 You can do this by opening the repository, clicking on the 'Code' button, and selecting either 'clone or download'.
 
-### The site is published at https://olliemedley.github.io/ms1.2/
+### The site is published at https://olliemedley.github.io/Beta-Supplies/
 
 
 ## Credits
