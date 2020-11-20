@@ -64,13 +64,20 @@ No errors were found with my CSS with the Validator but I did have to take out c
 
 ## Deployment
 To write the code I used Brackets.IO 
-All of the written code was pushed to the master branch of githum repository.
+
+All of the written code was pushed to the master branch of github repository.
+
 I selected the master branch as a source file in the settings menu. 
+
 Once selected, this publishes the project to GitHub Pages and displays the site URL.
+
 There aren't any differences between the deployed version and the source. 
+
 The code can be run locally through clone or download.
+
 You can do this by opening the repository, clicking on the 'Code' button, and selecting either 'clone or download'.
-The site is published at https://olliemedley.github.io/ms1.2/
+
+### The site is published at https://olliemedley.github.io/ms1.2/
 
 
 ## Credits
