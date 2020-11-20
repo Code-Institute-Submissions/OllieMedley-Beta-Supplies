@@ -221,7 +221,7 @@ a img {
 
 footer {
     min-height: 200px;
-    box-shadow: 0 100vh 0 50vh #3d3232;
+    box-shadow: 0 100vh 0 100vh #3d3232;
     margin-top: auto
 }
 
