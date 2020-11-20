@@ -367,16 +367,16 @@ footer {
     color: #CF1010;
 }
 
-.blog_art h2 {
+.blog-art h2 {
     font-family: var(--header-font);
 }
 
-.blog_art h5 {
+.blog-art h5 {
     font-family: var(--sub-font);
     font-weight: 500;
     font-style: italic;
 }
 
-.blog_art p {
+.blog-art p {
     font-family: var(--sub-font);
 }
