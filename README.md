@@ -60,7 +60,9 @@ To fix the error I removed the button entirely and styled the link to look like 
 
 The warnings don't impact the functionality. 
 
-No errors were found with my CSS with the Validator but I did have to take out code that didn't do anything that I left in from the beginning. 
+1 error was found with my CSS with the Validator but this is relating to the list of colors which is only there for ease when selecting colors.  
+ 
+I did have to take out code that didn't do anything that I left in from the beginning. 
 
 ## Deployment
 To write the code I used Brackets.IO 
