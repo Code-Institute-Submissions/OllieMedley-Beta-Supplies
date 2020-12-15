@@ -4,6 +4,15 @@
 ## UX
 This website is designed to be used by climbers, to be efficient in the finding of equipment and the latest information. 
 
+Colors: 
+
+I chose colors that were quite bold and dark. I wanted the feel to be simplistic and rugged, so I decided on grey to be the major color with everything else set to contrast this and give the text more weight and for the user to be more drawn to the information. 
+
+Fonts:
+
+The fonts were chosen for similar reasons to the colors, I wanted them to be rugged but I also wanted it to be clear that it contained useful information. I went for Bangers to give the rugged appeal, I decided on Encode becuase it had a level of professionalism that reminded me of Times New Roman, this gave me the impression that what would be written would be trusted more. 
+Overall I wanted the work and play feel to come through, it is a fun sport that people do take seriously. 
+
 User stories:
 
 As a climber, I want to find the latest deals on climbing supplies, so that I can afford better equipment.
