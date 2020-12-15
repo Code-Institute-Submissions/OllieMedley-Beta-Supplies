@@ -19,7 +19,7 @@ I removed the search bar from the header and the radio buttons from the product 
 
 The typography that I chose was designed to be more rustic and reminisent of rock face, which is why I chose Bangers, I chose Encode as a juxtaposition to this to display factually correct information. 
 
-![responsive screenshot](responsivescreenshot.jpg)
+![responsive screenshot](https://github.com/OllieMedley/ms1.2/blob/master/assets/wireframe/responsivescreenshot.JPG)
 
 ## Features
 
@@ -50,7 +50,7 @@ Languages:
 -Git
 
 ## Testing
-I used W3C for HTML and CSS.
+I used W3C validators for HTML and CSS.
 
 HTML test brought up 1 error relating to the Jumbotron. This was the use of an a tag around the button.
  
@@ -60,22 +60,34 @@ To fix the error I removed the button entirely and styled the link to look like 
 
 The warnings don't impact the functionality. 
 
-No errors were found with my CSS with the Validator but I did have to take out code that didn't do anything that I left in from the beginning. 
+1 error was found with my CSS with the Validator but this is relating to the list of colors which is only there for ease when selecting colors.  
+ 
+I did have to take out code that didn't do anything that I left in from the beginning. 
 
 ## Deployment
 To write the code I used Brackets.IO 
-All of the written code was pushed to the master branch of githum repository.
+
+All of the written code was pushed to the master branch of github repository.
+
 I selected the master branch as a source file in the settings menu. 
+
 Once selected, this publishes the project to GitHub Pages and displays the site URL.
+
 There aren't any differences between the deployed version and the source. 
+
 The code can be run locally through clone or download.
+
 You can do this by opening the repository, clicking on the 'Code' button, and selecting either 'clone or download'.
-The site is published at https://olliemedley.github.io/ms1.2/
+
+### The site is published at https://olliemedley.github.io/Beta-Supplies/
 
 
 ## Credits
 ### Media
-The photos used in this site were obtained from myself - the image for the jumbotron or from www.istockphoto.com - a very helpful site.
+The photos used in this site were obtained from myself - the image for the jumbotron or from www.istockphoto.com - a very helpful site ad one image from Climbing Gear Reviews - https://www.google.com/url?sa=i&url=https%3A%2F%2Fclimbinggearreviews.com%2F2020%2F03%2F12%2Fscarpa-veloce-review-2020%2F&psig=AOvVaw3tkYzoQuLOmypvKSFvDL25&ust=1605963981954000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCJjRzpeYke0CFQAAAAAdAAAAABAD
+
+### Bootstrap
+(used for the header, jumbotron, grid layout and cards)
 
 ### Acknowledgements
 I received inspiration for this project from Epic TV and Depot Climbing and help from my mentor
