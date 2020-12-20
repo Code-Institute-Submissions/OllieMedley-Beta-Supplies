@@ -45,6 +45,10 @@ Fonts:
 The fonts were chosen for similar reasons to the colors, I wanted them to be rugged but I also wanted it to be clear that it contained useful information. I went for Bangers to give the rugged appeal, I decided on Encode becuase it had a level of professionalism that reminded me of Times New Roman, this gave me the impression that what would be written would be trusted more. 
 Overall I wanted a feel of work and play to come through, it is a fun sport that people do take seriously. 
 
+Imagery:
+
+The images that I chose were chosen because of what they displayed, I wanted them to be representative of what was being discussed. With the exception of the Jumbotron image, I chose this not only because of what it showed but because it was colorful, striking and a juxtoposition to the simplistic colors used elsewhere.  
+
 ## User stories:
 
 Below are user stories for visitors to the site.
@@ -99,8 +103,12 @@ Languages:
 
 ## Workspace: 
 -Brackets.IO
+
 -GitHub 
+
 -Git
+
+-Balsamiq
 
 ## Testing
 ### Validation
@@ -179,6 +187,7 @@ This attempt did not work and after some research and playing around with it I c
     justify-content:center;
     }
 
+After this the product cards reacted as I wanted, they were positioned appropriately on the page and were responsive across platforms. 
 
 ## Deployment
 To write the code I used Brackets.IO 
@@ -201,6 +210,9 @@ You can do this by opening the repository, clicking on the 'Code' button, and se
 ## Credits
 ### Media
 The photos used in this site were obtained from myself - the image for the jumbotron or from www.istockphoto.com - a very helpful site ad one image from Climbing Gear Reviews - https://www.google.com/url?sa=i&url=https%3A%2F%2Fclimbinggearreviews.com%2F2020%2F03%2F12%2Fscarpa-veloce-review-2020%2F&psig=AOvVaw3tkYzoQuLOmypvKSFvDL25&ust=1605963981954000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCJjRzpeYke0CFQAAAAAdAAAAABAD
+
+### Balsamiq
+Used to create the wireframes
 
 ### Bootstrap
 (used for the header, jumbotron, grid layout and cards)
