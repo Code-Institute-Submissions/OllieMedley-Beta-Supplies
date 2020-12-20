@@ -3,21 +3,21 @@
 
 ## UX:
 
-1. Strategy
+### 1. Strategy
 
 This website is designed to be used by climbers, to be efficient in the finding of equipment and the latest information. 
 
 I want the site to be a place where people interested in climbing can connect to buy the latest equipment, find deals, learn what's happening in the sport through the use of blogs and links to social media, and as a result I want to create a space to connect to the climbing community. 
 
 
-2. Scope
+### 2. Scope
 
 - Multiple pages including Home Page, Product Pages, Contact and Blog. 
 - Jumbotron featuring image, from Bootstrap Library
 - Social media links in the footer and on the contact page
 
 
-3. Structure
+### 3. Structure
 
 One of my main aims with my structure was to ensure that people could find what they wanted and to get them there within the fewest number of clicks. My navbar is simple and easy to understand, with the product dropdown including the product pages. I also include featured items, clearence items and blog post in the home page. 
 
@@ -27,14 +27,14 @@ I want the site to be responsive across platforms, so I have used Bootstrap and 
 
 https://github.com/OllieMedley/ms1.2/tree/master/wireframe
 
-4. Skeleton
+### 4. Skeleton
 
 - I used a navbar with a responsive structure that becomes a burger icon at mobile level, otherwise it is clearly layed out with an efficient dropdown for the product pages. 
 - The Beta Supplies Icon also brings you back to the home page. 
 - Social media links are on every page and displayed with their icons.
 
 
-5. Surface
+### 5. Surface
 
 Colors: 
 
@@ -109,6 +109,7 @@ I used W3C validation for HTML, this brought up one error relating to the jumbot
 1 error was found with my CSS with the Jigsaw Validator but this is relating to the list of colors which is only there for ease when selecting colors
 
 ### Manual Testing
+I followed all of the links on the site to ensure that they went where they should. 
 
 I checked the responsiveness of the website on Responsitor. It displays the site on different devices both landscape and portrait, which I found to be helpful.
 
