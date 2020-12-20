@@ -49,7 +49,7 @@ Imagery:
 
 The images that I chose were chosen because of what they displayed, I wanted them to be representative of what was being discussed. With the exception of the Jumbotron image, I chose this not only because of what it showed but because it was colorful, striking and a juxtoposition to the simplistic colors used elsewhere.  
 
-## User stories:
+### User stories:
 
 Below are user stories for visitors to the site.
 
@@ -68,8 +68,7 @@ Below are user stories for visitors to the site.
 7/ As a visitor to the site, I want to have easy access to the social links for the company. 
 
 
-
-## Wireframes: 
+### Wireframes: 
 https://github.com/OllieMedley/ms1.2/tree/master/wireframe
 
 I removed the search bar from the header and the radio buttons from the product pages as I felt they would be there just to be there, and it isn't something I wanted. Once I am able to add funcitoning versions it may be somehting I look at adding in. 
@@ -78,7 +77,7 @@ The typography that I chose was designed to be more rustic and reminisent of roc
 
 ![responsive screenshot](https://github.com/OllieMedley/ms1.2/blob/master/assets/wireframe/responsivescreenshot.JPG)
 
-## Features
+### Features
 
 - Jumbotron featuring image, from Bootstrap Library
 - Social media links in the footer and on the contact page
@@ -90,18 +89,18 @@ The typography that I chose was designed to be more rustic and reminisent of roc
 Search bar in header once there is a database attached
 Radio buttons, again once a database is attached. 
 
-## Technologies Used
+### Technologies Used
 Languages:
 -HTML
 -CSS
 -Javascript
 
-## Libraries and Integrations: 
+### Libraries and Integrations: 
 -Google fonts (for typography)
 -FontAwesome (for the icons)
 -Bootstrap (used for the header, jumbotron, grid layout and cards)
 
-## Workspace: 
+### Workspace: 
 -Brackets.IO
 
 -GitHub 
